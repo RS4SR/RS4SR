@@ -1,3 +1,3 @@
 # RS4SR
 
-Coming soon.
+The code needs further cleaning and documenting.
